@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "逆転劇",
+  "base_artist": "月詠み",
+  "createdAt": "2025-12-20T10:51:11.072254Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "逆転劇",
+      "artist": "月詠み",
+      "has_synced": false,
+      "path": "select/pl_01_逆転劇_月詠み.txt"
+    }
+  ]
+}
